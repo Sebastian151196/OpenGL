@@ -1,0 +1,6 @@
+Modo de compilación de los programas
+
+gcc <nombre_Archivo> -o <incluir librerias>
+
+Librerias requeridas para el procesamiento:
+-lglut -lGLU -lGL 
